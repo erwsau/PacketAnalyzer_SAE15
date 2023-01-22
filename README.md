@@ -23,6 +23,7 @@ You will need to have the following python packages installed:
 - re
 
 You can install these packages using pip by running the following command:
+
 pip install pandas matplotlib seaborn re
 
 ### Running the code

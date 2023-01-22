@@ -28,9 +28,9 @@ pip install pandas matplotlib seaborn re
 ### Running the code
 
 1. Clone this repository to your local machine using `https://github.com/<username>/Packet-Analyzer.git`
-2. Open the `Packet-Analyzer` folder and locate the file `final.py`
-3. In the `final.py` file, change the file path on line 15 to the location of your pcap file.
-4. Run the code by executing the command `python final.py` in the terminal
+2. Open the `Packet-Analyzer` folder and locate the file `PacketAnalyzer.py`
+3. In the `PacketAnalyzer.py` file, change the file path on line 15 to the location of your pcap file.
+4. Run the code by executing the command `python PacketAnalyzer.py` in the terminal
 
 ## Authors
 

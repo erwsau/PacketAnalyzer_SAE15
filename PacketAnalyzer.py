@@ -8,7 +8,7 @@ import seaborn as sns
 
 # Read packets from a pcap file
 packets = []
-with open('D:\Cours\SAE15\SAE\DumpFile.txt', 'r') as f:
+with open('DumpFile.txt', 'r') as f:
     # Browse each line of the file
 
     packet_data = []
@@ -115,4 +115,4 @@ plt.legend(handles=bar_list)
 plt.xticks(rotation=90)
 plt.legend(df['IP'])
 
-plt.savefig("ip")
+plt.savefig("Graph")

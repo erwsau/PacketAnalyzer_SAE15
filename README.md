@@ -33,8 +33,6 @@ pip install pandas matplotlib seaborn re
 3. In the `PacketAnalyzer.py` file, change the file path on line 15 to the location of your pcap file.
 4. Run the code by executing the command `python PacketAnalyzer.py` in the terminal
 
-(Example of the code with the `Dumpfile.txt file` with the result `Graph.png`)
-
 ## Authors
 
 * - erwsau (https://github.com/erwsau)

@@ -114,5 +114,7 @@ for i in range(len(bar_list)):
 plt.legend(handles=bar_list)
 plt.xticks(rotation=90)
 plt.legend(df['IP'])
+plt.title("Number of packets per IP")
 
 plt.savefig("Graph")
+
